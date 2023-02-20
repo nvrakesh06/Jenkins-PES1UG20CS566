@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(void) {
-  cout<<"PES1UG20CS566\n";
+  cout<"PES1UG20CS566\n";
   return 0;
 }
