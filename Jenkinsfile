@@ -12,7 +12,7 @@ pipeline {
       steps {
         sh './a.out'
         echo 'Tested Passed '
-      }
+      
     }
     stage('Deploy') {
       steps {
